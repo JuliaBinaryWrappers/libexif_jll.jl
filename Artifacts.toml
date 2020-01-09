@@ -1,0 +1,113 @@
+[[libexif]]
+arch = "i686"
+git-tree-sha1 = "0a1fa719e7c99b9cd669bd3dd284133dc0166e48"
+libc = "glibc"
+os = "linux"
+
+    [[libexif.download]]
+    sha256 = "025d278cf6d4708a0a41a50842220bb77d7413ae917a763c4732768e77576d93"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.i686-linux-gnu.tar.gz"
+[[libexif]]
+arch = "i686"
+git-tree-sha1 = "b6da77d5ea71260a87f6f8994b4a8c09f9007f87"
+libc = "musl"
+os = "linux"
+
+    [[libexif.download]]
+    sha256 = "80ec270a443bfedb24f2b666977b0cdff573f9110228f221099f53023b43f732"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.i686-linux-musl.tar.gz"
+[[libexif]]
+arch = "x86_64"
+git-tree-sha1 = "54ad14a0e19f7c7901c2c6872b8be283a321f74c"
+os = "macos"
+
+    [[libexif.download]]
+    sha256 = "2373ab950131005e31bab92e2ce98d604f8de3a5524f90dd893b955da2931291"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.x86_64-apple-darwin14.tar.gz"
+[[libexif]]
+arch = "powerpc64le"
+git-tree-sha1 = "0d77255159435a5c3959b10934c3c2d09369356b"
+libc = "glibc"
+os = "linux"
+
+    [[libexif.download]]
+    sha256 = "b8cf94a7896c2d43f0b719a2217ff667ad4be40cee28c5bc2a9e42701f9614e1"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.powerpc64le-linux-gnu.tar.gz"
+[[libexif]]
+arch = "aarch64"
+git-tree-sha1 = "fdf493f25813c1eac2ee2a7719382bbf6e07a7f7"
+libc = "glibc"
+os = "linux"
+
+    [[libexif.download]]
+    sha256 = "d1d9d8f0c93f555eab2be8357d333a924803eef93cabed01cd467f1e4ae7b825"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.aarch64-linux-gnu.tar.gz"
+[[libexif]]
+arch = "x86_64"
+git-tree-sha1 = "b0f2fc2f9f21f23d352cfc4e5514c6dda5bebc00"
+libc = "musl"
+os = "linux"
+
+    [[libexif.download]]
+    sha256 = "278902dd683f0fe24c1c8cc3c688e26dce90ca0beb75d56cbf1ad87a5dc0e523"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.x86_64-linux-musl.tar.gz"
+[[libexif]]
+arch = "aarch64"
+git-tree-sha1 = "aa76b98ab328286ccbe258cb978ea91365e61ab4"
+libc = "musl"
+os = "linux"
+
+    [[libexif.download]]
+    sha256 = "615d7238b27b5c81eab0500e7f4c4a791baef81126fb6e3b29657112265c383a"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.aarch64-linux-musl.tar.gz"
+[[libexif]]
+arch = "armv7l"
+git-tree-sha1 = "b644917ddc91994ea054f488ca6a89d7717ffc5c"
+libc = "musl"
+os = "linux"
+
+    [[libexif.download]]
+    sha256 = "94e771209a15f3f27fa58f399d8b26e817b9515d5656d98fadc96e22ba2ab1d3"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.arm-linux-musleabihf.tar.gz"
+[[libexif]]
+arch = "i686"
+git-tree-sha1 = "f66e64e84519379c9b9f90ec88630f348f0077a2"
+os = "windows"
+
+    [[libexif.download]]
+    sha256 = "7ba55490585c6787218f13e577d68bd4a0d9b13f8d06281a85e30cc6586338a5"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.i686-w64-mingw32.tar.gz"
+[[libexif]]
+arch = "x86_64"
+git-tree-sha1 = "e07b0f8eb0b7a14dd7a7f000a1fa8ebba29568a5"
+os = "freebsd"
+
+    [[libexif.download]]
+    sha256 = "e3c0a5387a88637c56495741d48dae327339a078ea9e04dd9fe580731e98534c"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.x86_64-unknown-freebsd11.1.tar.gz"
+[[libexif]]
+arch = "armv7l"
+git-tree-sha1 = "6fa781091ca9f19661d64f13582f5f555165621b"
+libc = "glibc"
+os = "linux"
+
+    [[libexif.download]]
+    sha256 = "543922377f9b288e2e9f1070a0cc07c72887f3cb6111381c407dfaa374cd98f0"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.arm-linux-gnueabihf.tar.gz"
+[[libexif]]
+arch = "x86_64"
+git-tree-sha1 = "01c4dc05d451c5fa4618de7e016cf266d823a5e5"
+libc = "glibc"
+os = "linux"
+
+    [[libexif.download]]
+    sha256 = "f1f01ca6dcf6781a50e7d966448810b504cac5fe3c2cf1da7162932ef78f4f87"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.x86_64-linux-gnu.tar.gz"
+[[libexif]]
+arch = "x86_64"
+git-tree-sha1 = "1e97ce8a262cfbfb873e878349d252e69c77d03b"
+os = "windows"
+
+    [[libexif.download]]
+    sha256 = "abd58ee44ac527e1930149014163d93387620e3a256e0bc5ec4565be8a034ca6"
+    url = "https://github.com/JuliaBinaryWrappers/libexif_jll.jl/releases/download/libexif-v0.6.21+0/libexif.v0.6.21.x86_64-w64-mingw32.tar.gz"
